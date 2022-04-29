@@ -1,9 +1,9 @@
 # Objectives
 
-On completing this training, the learner should be able to...
+On completing this training, you should be able to...
 
-- Explain what operate first and upstream first is
+- Describe the Operate First methodology and the motivation behind it.
 - Define the community vision
-- Describe the three basic terms
+- Explain the three basic terms
 - List the use cases
 - Identify how to get support for operate first
